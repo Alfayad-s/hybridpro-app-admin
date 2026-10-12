@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832888504626",
+    "project_id": "hybrid-pro-31f8c",
+    "storage_bucket": "hybrid-pro-31f8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832888504626:android:cbf310ccf0eae5f405172b",
+        "android_client_info": {
+          "package_name": "in.hybridpro.hybrid_pro_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATbd2AR9BGopbo5nC2HLv4GWU32cbE8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832888504626:android:beb5d21f1811c9df05172b",
+        "android_client_info": {
+          "package_name": "in.hybridpro.hybrid_pro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATbd2AR9BGopbo5nC2HLv4GWU32cbE8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
